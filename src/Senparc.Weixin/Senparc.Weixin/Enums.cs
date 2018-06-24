@@ -20,7 +20,7 @@ Detail: https://github.com/JeffreySu/WeiXinMPSDK/blob/master/license.md
 
 /*----------------------------------------------------------------
     Copyright (C) 2018 Senparc
-     
+
     文件名：Enums.cs
     文件功能描述：枚举类型
 
